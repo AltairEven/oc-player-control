@@ -1,0 +1,16 @@
+PODS:
+  - ALSVideoPlayerControl (0.0.1)
+
+DEPENDENCIES:
+  - ALSVideoPlayerControl (from `../`)
+
+EXTERNAL SOURCES:
+  ALSVideoPlayerControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ALSVideoPlayerControl: 2e9f05f57eb03c255acf6ed18cfedfc0059e2a00
+
+PODFILE CHECKSUM: 02c251ee4eeb21b2a0dfb1f4da64dfda08a6b5e6
+
+COCOAPODS: 1.5.0

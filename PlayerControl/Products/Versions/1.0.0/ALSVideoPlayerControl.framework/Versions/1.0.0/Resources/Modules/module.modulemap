@@ -1,0 +1,6 @@
+framework module ALSVideoPlayerControl {
+  umbrella header "ALSVideoPlayerControl.h"
+
+  export *
+  module * { export * }
+}
